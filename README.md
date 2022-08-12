@@ -63,7 +63,6 @@ Here is a brief explanation of the template folder structure and some of its mai
 │   │   │   └── sidebar         # Sidebar JS code.
 │   │   │   └── skycons         # Animated icons plugin init.
 │   │   │   └── utils           # Basic utils used for proper rendering.
-│   │   │   └── vectorMaps      # Vector maps plugin init.
 │   │   │   └── index.js        # Indicator file.
 │   │   │
 │   │   └── static              # Contains the non-code files.
@@ -134,7 +133,6 @@ Used to create a local dev server in order to preview the final output of build 
 - [Fullcalendar](https://fullcalendar.io/)
 - [Jquery](https://jquery.com/)
 - [Jquery Sparkline](https://omnipotent.net/jquery.sparkline/)
-- [Jvectormap](http://jvectormap.com/)
 - [Load Google Maps API](https://github.com/yuanqing/load-google-maps-api)
 - [Lodash](https://lodash.com/)
 - [Masonry](https://masonry.desandro.com/)
